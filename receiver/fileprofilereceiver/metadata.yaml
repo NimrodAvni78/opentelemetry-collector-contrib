@@ -1,0 +1,14 @@
+type: fileprofile
+
+status:
+  class: receiver
+  stability:
+    development: [profiles]
+  distributions: [contrib]
+  codeowners:
+    active: []
+    seeking_new: true
+
+tests:
+  skip_lifecycle: true
+  skip_shutdown: true
